@@ -1,4 +1,4 @@
-FROM debian
+FROM ubuntu:focal
 MAINTAINER Alex Kretzschmar <alexktz@gmail.com>
 
 ARG SNAPRAID_VERSION
